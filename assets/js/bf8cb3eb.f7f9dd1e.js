@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhif_icu=self.webpackChunkhif_icu||[]).push([[6645],{6922:i=>{i.exports=JSON.parse('{"label":"Linux","permalink":"/tags/linux","allTagsPath":"/tags","count":1,"items":[{"id":"\u539f\u535a\u5ba2\u6587\u4ef6/Linux\u5e38\u7528\u547d\u4ee4","title":"Linux\u5e38\u7528\u547d\u4ee4","description":"\u7f51\u7edc","permalink":"/linux"}]}')}}]);

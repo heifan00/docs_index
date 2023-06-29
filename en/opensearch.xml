@@ -4,8 +4,8 @@
   <ShortName>HiF.icu</ShortName>
   <Description>Search HiF.icu</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://your-docusaurus-test-site.com/en/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://your-docusaurus-test-site.com/en/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://your-docusaurus-test-site.com/en/opensearch.xml" />
-  <moz:SearchForm>https://your-docusaurus-test-site.com/en/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://hif.icu/en/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://hif.icu/en/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://hif.icu/en/opensearch.xml" />
+  <moz:SearchForm>https://hif.icu/en/</moz:SearchForm>
 </OpenSearchDescription>
